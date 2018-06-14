@@ -133,11 +133,13 @@ namespace RabbitMQSample.EventBus.RabbitMQ.Implementation
                 _persistentConnection.TryConnect();
 
             var channel = _persistentConnection.CreateModel();
+
+            //Quality Of Service - Limiting the number of unacknowledged messages
             channel.BasicQos
             (
                 prefetchCount: 5,
                 prefetchSize: 0,
-                global: false
+                global: false //Apply thi limit for the queue and not for the channel
             );
 
             var consumer = new EventingBasicConsumer(channel);
@@ -152,6 +154,7 @@ namespace RabbitMQSample.EventBus.RabbitMQ.Implementation
                 // It's highly recommended using LoggerIntegrationEventHandler for Consumers.
                 await ProcessEvent(eventName, message);
 
+                //Releasing message from queue and processing the next one
                 channel.BasicAck
                 (
                     multiple: false,
