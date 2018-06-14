@@ -1,0 +1,12 @@
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.deps.json
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.csprojResolveAssemblyReference.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.EventBus.RabbitMQ\obj\Debug\netcoreapp2.0\RabbitMQSample.EventBus.RabbitMQ.csproj.CopyComplete

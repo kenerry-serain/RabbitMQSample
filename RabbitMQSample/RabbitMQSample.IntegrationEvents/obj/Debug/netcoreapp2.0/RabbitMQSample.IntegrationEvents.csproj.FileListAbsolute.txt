@@ -1,0 +1,12 @@
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\bin\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.deps.json
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\bin\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\bin\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\bin\Debug\netcoreapp2.0\RabbitMQSample.EventBus.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.csprojResolveAssemblyReference.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.AssemblyInfoInputs.cache
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.AssemblyInfo.cs
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.dll
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.pdb
+D:\Workspace\GIT\RabbitMQSample\RabbitMQSample.IntegrationEvents\obj\Debug\netcoreapp2.0\RabbitMQSample.IntegrationEvents.csproj.CopyComplete
